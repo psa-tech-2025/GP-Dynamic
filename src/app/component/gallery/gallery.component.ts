@@ -42,7 +42,7 @@ export class GalleryComponent implements OnInit {
   if (!this.isAdmin) return;
 
   // 🚫 Limit: only 10 images allowed (for ADD only)
-  if (!this.editId && this.images.length >= 10) {
+  if (!this.editId && this.images.length >= 20) {
     alert('Maximum 10 images allowed in gallery.');
     return;
   }
