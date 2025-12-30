@@ -69,7 +69,7 @@
     "secondarySchools": { "label": "Z.P. Secondary Schools", "value": "1" },
     "gramPanchayats": { "label": "Total Gram Panchayats", "value": "66" },
     "municipalCouncil": { "label": "Villages Included in Municipal Council", "value": "1" },
-    "totalArea": { "label": "Total Area (Hectares)", "value": "78428" },
+    "totalArea": { "label": "Total Area (Hectares)", "value": "2342" },
     "cultivableArea": { "label": "Cultivable Area (Hectares)", "value": "58288" },
     "primaryHealth": { "label": "Primary Health Centers", "value": "1" },
     "hospitals": { "label": "Sub-District Hospitals", "value": "28" },

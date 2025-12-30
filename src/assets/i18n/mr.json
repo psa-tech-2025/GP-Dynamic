@@ -114,7 +114,7 @@
     "secondarySchools": { "label": "जि.प. माध्यमिक शाळा", "value": "१" },
     "gramPanchayats": { "label": "एकूण ग्रामपंचायती", "value": "६६" },
     "municipalCouncil": { "label": "नगर परिषदेत समाविष्ट गावे", "value": "१" },
-    "totalArea": { "label": "एकूण क्षेत्रफळ (हेक्टरमध्ये)", "value": "७८४२८" },
+    "totalArea": { "label": "एकूण क्षेत्रफळ (हेक्टरमध्ये)", "value": "2342" },
     "cultivableArea": { "label": "खतपदार्थ क्षेत्रफळ (हेक्टरमध्ये)", "value": "५८२८८" },
     "primaryHealth": { "label": "प्राथमिक आरोग्य केंद्रे", "value": "1" },
     "hospitals": { "label": "उपजिल्हा रुग्णालये", "value": "२८" },
