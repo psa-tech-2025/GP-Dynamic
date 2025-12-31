@@ -82,10 +82,12 @@
     <div class="col-md-6 mb-4 officer-card" *ngFor="let list of members">
 
       <!-- MULTIPLE IMAGES -->
-      <img *ngFor="let img of list.images"
-           [src]="img"
-           [alt]="list.nameText"
-           class="officer-img">
+         <img
+        *ngIf="list.images?.length"
+        [src]="list.images[list.images.length - 1]"
+        [alt]="list.nameText"
+        class="officer-img"
+      />
 
       <div class="officer-name">
         {{ list.nameText }}
